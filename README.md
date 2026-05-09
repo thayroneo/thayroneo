@@ -1,10 +1,10 @@
-# Hi, I'm José Tayrone 👋
+# Hi, I'm José Tayrone
 
 I'm an Electrical Engineering student passionate about **Machine Learning**, **Large Language Models (LLMs)**, **Computer Vision**, embedded systems, and intelligent engineering applications.
 
 Experience with projects involving **machine learning**, **deep learning**, **computer vision**, and applications using **LLMs and RAG**. I also work with **C/C++**, **microcontrollers**, and the integration of hardware and software for embedded and intelligent systems.
 
-## 🚀 Technologies and Interests
+## Technologies and Interests
 
 - Machine Learning and Deep Learning
 - Large Language Models and RAG
@@ -13,7 +13,7 @@ Experience with projects involving **machine learning**, **deep learning**, **co
 - Microcontrollers and Applied Electronics
 - Python for simulation, data analysis, automation, and AI applications
 
-## 🔬 Focus Areas
+## Focus Areas
 
 The intersection of **artificial intelligence, computer vision, embedded systems, and engineering**, exploring how computational models can be used to build smarter, more adaptive, and efficient solutions.
 
